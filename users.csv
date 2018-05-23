@@ -1,0 +1,10 @@
+,created_at,email,firstname,id,lastname,roles,updated_at,user_id,username
+0,2018-01-31T20:02:49.614Z,cjenkins@reservoirdata.com,Christian,5a7220e9c46e6a1646322962,Jenkins,['clientowner'],2018-01-31T20:02:49.614Z,5a7220e9c46e6a1646322960,
+1,2018-02-20T17:18:37.470Z,dcouch@reservoirdata.com,Dustin,5a8c586df3a77b002b0926ac,Couch,['clientoperator'],2018-03-05T16:42:31.000Z,5a8c586df3a77b002b0926ab,Dcouch
+2,2018-03-05T16:40:15.772Z,areddell@reservoirdata.com,Andrew,5a9d72efe94c28205a293d38,Reddell,['clienttagger'],2018-03-05T16:40:15.772Z,5a8b024705a400001cbc16d2,AReddell
+3,2018-03-05T16:41:45.451Z,gkennedy@reservoirdata.com,Greg,5a9d7349e94c28207a293d0c,Kennedy,['clientoperator'],2018-03-05T16:41:45.451Z,5a9d7349e94c28207a293d0b,Gkennedy
+4,2018-03-05T16:47:05.038Z,ihernandez@reservoirdata.com,Ismael ,5a9d7489e94c28205a293d4f,Hernandez,['clientoperator'],2018-03-05T16:47:05.038Z,5a9d7488e94c28205a293d4e,Ihernandez
+5,2018-03-05T16:50:26.996Z,gkanak@reservoirdata.com,Greg,5a9d7552e94c28205a293d66,Kanak,['clientadmin'],2018-03-05T16:50:26.996Z,5a9d7552e94c28205a293d65,Gkanak
+6,2018-03-05T16:51:20.694Z,bcaskey@reservoirdata.com,Brad,5a9d7588e94c28207a293d30,Caskey,['clienttagger'],2018-03-05T16:51:20.694Z,5a9d7588e94c28207a293d2f,Bcaskey
+7,2018-03-05T16:52:26.240Z,jsanthoff@reservoirdata.com,Justin,5a9d75cae94c28207a293d3a,Santhoff,['clienttagger'],2018-03-05T16:52:26.240Z,5a9d75cae94c28207a293d39,Jsanthoff
+8,2018-03-05T16:53:20.002Z,jshipman@reservoirdata.com,John,5a9d75ffe94c28205a293d76,Shipman,['clienttagger'],2018-03-05T16:53:20.002Z,5a9d75ffe94c28205a293d75,Jshipman
